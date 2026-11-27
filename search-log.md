@@ -33,3 +33,15 @@ Newest first. Add a dated entry after every search session.
 - Too senior for now: EnerVenue (5+ yrs), Hithium (3-5 yrs), Sungrow (3+ yrs).
 - ML6: no visa sponsorship.
 - LinkedIn to use on forms: https://www.linkedin.com/in/helloworldceo
+
+## 2026-11-27 (third search: remote sites the user asked about)
+- Applied: Bjak Applied AI Engineer (remote, must live in China) via Remote Rocketship / Himalayas leads -> bjak.my careers -> Ashby.
+- Rev: NOT open - transcription/caption freelancers only from US, UK, CA, AU, IE, MX, NL, NZ, ZA.
+- Prolific: NOT open - participants must live in a supported (mostly OECD) country; others go to a waitlist.
+- SideShift.app: tech jobs are in-office New York; SideShift.ai (crypto) not hiring.
+- TranscribeMe: open worldwide (18+, English test, paid via PayPal). Sign-up pending.
+- Microworkers: open worldwide, low-paid micro-tasks. Sign-up pending.
+- remote.co: most listings behind FlexJobs paywall; nothing new.
+- Himalayas: blocks the browser with a Cloudflare bot check; Remote Rocketship needs sign-up to show apply links (find the job on the company site instead).
+- Skipped: Canonical Graduate SWE (only for people whose FIRST degree is 2026/2027; also bans AI-written answers - user must fill it himself). 3E PV & BESS Engineer (Italy-only, Italian permitting).
+- Worldwide leads still open: Elvoro AI App Developer (ChatGPT/Claude/Grok apps, MCP, contract); Klatch Full Stack Engineer Intern (worldwide, stipend); Invisible Agency Amharic language AI trainer.
