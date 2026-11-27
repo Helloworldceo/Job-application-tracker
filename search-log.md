@@ -48,3 +48,4 @@ Newest first. Add a dated entry after every search session.
 - Later same day: applied to 4 Invisible/Meridial AI-trainer roles (Amharic, Oromo, SWE Infrastructure, Python). Their board (job-boards.greenhouse.io/agency, 800+ roles) also has worldwide AI QA Trainer (LLM evaluation) and CVE & AppSec AI Task Auditor - not applied yet.
 - TranscribeMe: sign-up form filled (name, China/Jiangsu, email) but user said leave it for now - not submitted.
 - Elvoro: only via job-board sign-up, pay low/unclear - skipped. Klatch intern: only via Built In account, may be US-only - skipped.
+- Evening: applied Invisible AI QA Trainer (needed an 8-char email code - user entered it) and CVE & AppSec AI Task Auditor. Microworkers account created (user entered birth date/password/address). GE Vernova Site AI Partner (Suzhou) no longer listed on their Workday - closed; only China AI role open is AI Engineer in Qinhuangdao (on-site).
