@@ -26,3 +26,10 @@ Newest first. Add a dated entry after every search session.
 - **Mercor** — China and Ethiopia on its unsupported list.
 - **Alignerr** — eligibility varies by role; check each listing for China.
 - Rule: never enter a country I don't actually work from (accounts and pay can be frozen).
+
+## 2026-11-27 (second search: energy-tech China, AI security, software China, visa sponsorship)
+- Applied: Bosch AI Engineer_ME (Suzhou); LILT Oromo linguist (remote).
+- Closed / not open: Hyphen Connect AI Safety board inactive; EnerVenue Solution Engineer closed; LILT red-team roles closed.
+- Too senior for now: EnerVenue (5+ yrs), Hithium (3-5 yrs), Sungrow (3+ yrs).
+- ML6: no visa sponsorship.
+- LinkedIn to use on forms: https://www.linkedin.com/in/helloworldceo
