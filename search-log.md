@@ -45,3 +45,6 @@ Newest first. Add a dated entry after every search session.
 - Himalayas: blocks the browser with a Cloudflare bot check; Remote Rocketship needs sign-up to show apply links (find the job on the company site instead).
 - Skipped: Canonical Graduate SWE (only for people whose FIRST degree is 2026/2027; also bans AI-written answers - user must fill it himself). 3E PV & BESS Engineer (Italy-only, Italian permitting).
 - Worldwide leads still open: Elvoro AI App Developer (ChatGPT/Claude/Grok apps, MCP, contract); Klatch Full Stack Engineer Intern (worldwide, stipend); Invisible Agency Amharic language AI trainer.
+- Later same day: applied to 4 Invisible/Meridial AI-trainer roles (Amharic, Oromo, SWE Infrastructure, Python). Their board (job-boards.greenhouse.io/agency, 800+ roles) also has worldwide AI QA Trainer (LLM evaluation) and CVE & AppSec AI Task Auditor - not applied yet.
+- TranscribeMe: sign-up form filled (name, China/Jiangsu, email) but user said leave it for now - not submitted.
+- Elvoro: only via job-board sign-up, pay low/unclear - skipped. Klatch intern: only via Built In account, may be US-only - skipped.
