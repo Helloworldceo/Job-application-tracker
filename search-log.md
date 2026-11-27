@@ -51,3 +51,11 @@ Newest first. Add a dated entry after every search session.
 - Evening: applied Invisible AI QA Trainer (needed an 8-char email code - user entered it) and CVE & AppSec AI Task Auditor. Microworkers account created (user entered birth date/password/address). GE Vernova Site AI Partner (Suzhou) no longer listed on their Workday - closed; only China AI role open is AI Engineer in Qinhuangdao (on-site).
 - Microworkers checked after login: ~1,700 jobs, nearly all US$0.05-0.10 sign-ups, social-media likes/comments, or uploads of payslips, bank statements, photo ID and 'edit a value on a document' (identity-harvesting / document-forgery risk). Transcription, annotation and translation categories had 0 jobs. Decision: do not do these; keep the account but don't upload personal documents.
 - CV PDF saved in repo at cv/CV industry version Nov 2026.pdf (user chose to publish it, phone number included).
+
+## 2026-11-27 (51job, Suzhou area)
+- User logs in to 51job himself (phone + SMS). Account name 'David大卫'; 51job uses its own online resume (My Resume 1), not the PDF.
+- Applied: Pengcheng Wuxian x2 (overseas storage solution roles), Tengsheng overseas tech support (storage), YAGEO AI Engineer (agents/RAG).
+- Skipped: Zhongxin Bo overseas large-storage solution engineer (5+ yrs). BizLink Kunshan AI Engineer no longer in results.
+- Other leads: YAGEO '工程师-人工智能方向' (174167372), German-owned Meiming Software senior AI Agent dev (SIP).
+- Search tips: filter area 070300 (Suzhou); add '英语' to find English-working roles; job page apply button = .apply-btn-new.big; success URL = applysuccess.php.
+- 51job resume to fix: status says current student (graduated 2026); Software Engineer intention set to internship; contact email differs from davidabdisa40@gmail.com.
