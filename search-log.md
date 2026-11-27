@@ -49,3 +49,5 @@ Newest first. Add a dated entry after every search session.
 - TranscribeMe: sign-up form filled (name, China/Jiangsu, email) but user said leave it for now - not submitted.
 - Elvoro: only via job-board sign-up, pay low/unclear - skipped. Klatch intern: only via Built In account, may be US-only - skipped.
 - Evening: applied Invisible AI QA Trainer (needed an 8-char email code - user entered it) and CVE & AppSec AI Task Auditor. Microworkers account created (user entered birth date/password/address). GE Vernova Site AI Partner (Suzhou) no longer listed on their Workday - closed; only China AI role open is AI Engineer in Qinhuangdao (on-site).
+- Microworkers checked after login: ~1,700 jobs, nearly all US$0.05-0.10 sign-ups, social-media likes/comments, or uploads of payslips, bank statements, photo ID and 'edit a value on a document' (identity-harvesting / document-forgery risk). Transcription, annotation and translation categories had 0 jobs. Decision: do not do these; keep the account but don't upload personal documents.
+- CV PDF saved in repo at cv/CV industry version Nov 2026.pdf (user chose to publish it, phone number included).
