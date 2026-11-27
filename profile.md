@@ -48,3 +48,10 @@
 | Years of experience (freelance AI platforms) | 1–3 or 2–4 years |
 | AI coding tools | Claude Code, Codex, Gemini CLI |
 | Dockerfiles | Have written a few |
+| Need a work visa for a China-based remote job | No (can already work in China) |
+| 3+ years professional software experience | Yes (counting freelance full-stack 2019-2025 + Star Charge) |
+| Shipped an AI feature to real users / used LLMs professionally | Yes / Yes |
+| LLM providers used professionally | OpenAI, Anthropic, DeepSeek |
+| Node.js / Python professionally | Yes / Yes |
+| AI evaluation frameworks | Yes (RAGAS) |
+| Recruitment data-processing consent (when required to submit) | OK to tick |
